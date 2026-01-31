@@ -1,0 +1,2 @@
+Support_threshold,Faithfulness_mean,Faithfulness_sd,Faithfulness_CI95_low,Faithfulness_CI95_high,Coverage_mean,Coverage_sd,Coverage_CI95_low,Coverage_CI95_high,Hallucination_mean,Hallucination_sd,Hallucination_CI95_low,Hallucination_CI95_high,N_plants
+0.18,1.0,0.0,1.0,1.0,0.375,0.015386436372416592,0.3698280459462208,0.3801719540537792,0.0,0.0,0.0,0.0,34

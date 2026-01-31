@@ -1,0 +1,206 @@
+plant_key,sent_id,sentence,best_field,best_score,supported
+1_1_thankuni,1,Centella asiatica (1_1_thankuni) is a Perennial Herb in the Apiaceae family.,Scientific Name,0.3655913978494624,True
+1_1_thankuni,2,"It naturally grows in Tropical wetlands, marshy areas, tropical forests across Indian Subcontinent.",Native Habitat,0.6621621621621622,True
+1_1_thankuni,3,"Traditionally, it is used for Ayurvedic brain tonic, memory enhancement, skin conditions, fever and contains active compounds like Asiaticoside, madecassoside, asiatic acid, madecassic acid.",Traditional Uses,0.5098039215686274,True
+1_1_thankuni,4,"Preferred cultivation conditions include Tropical, 20-30°C, high humidity, 1500-2500mm rainfall annually and Loamy, well-drained, moist soil.",Climate Requirements,0.6176470588235294,True
+1_1_thankuni,5,Safety considerations: Avoid high doses in pregnancy; minimal use acceptable in lactation under supervision.,Pregnancy & Lactation Safety,0.875,True
+1_1_thankuni,6,"Leaf features: Orbicular-reniform, 3-5cm across, crenate or sub-entire margins, glabrous, radiating nerves.",Leaf Morphology,0.9191919191919192,True
+1_2_pathorkuchi,1,Bacopa monnieri (1_2_pathorkuchi) is a Perennial Herb (semi-aquatic) in the Plantaginaceae family.,Therapeutic Properties,0.3314917127071823,True
+1_2_pathorkuchi,2,"It naturally grows in Tropical wetlands, marshes, pond margins, tropical monsoon forests across Indian Subcontinent.",Native Habitat,0.7252747252747253,True
+1_2_pathorkuchi,3,"Traditionally, it is used for Ayurvedic brain tonic, nerve tonic, cooling, digestive aid, skin conditions and contains active compounds like Bacosides (bacopaside I, II), bacosine, alkaloids (nicotine-like).",Traditional Uses,0.5319148936170213,True
+1_2_pathorkuchi,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, high humidity, 1200-2400mm rainfall and Sandy loam, well-drained moist soil, adaptable to aquatic conditions.",Preferred Soil Type,0.5461847389558233,True
+1_2_pathorkuchi,5,Safety considerations: Avoid in first trimester; minimal therapeutic use acceptable later under guidance.,Pregnancy & Lactation Safety,0.8709677419354839,True
+1_2_pathorkuchi,6,"Leaf features: Small, obovate to spoon-shaped, 4-6mm long, succulent, opposite arrangement.",Leaf Morphology,0.9036144578313253,True
+1_3_apang,1,Achyranthes aspera (1_3_apang) is a Annual/Biennial Herb in the Amaranthaceae family.,Scientific Name,0.34951456310679613,True
+1_3_apang,2,"It naturally grows in Tropical dry forests, open grasslands, wastelands, disturbed areas across Indian Subcontinent, Africa.",Native Habitat,0.6947368421052632,True
+1_3_apang,3,"Traditionally, it is used for Ayurvedic treatment for jaundice, urinary troubles, respiratory issues and contains active compounds like Saponins, alkaloids, essential oil, triterpenes.",Traditional Uses,0.5511811023622047,True
+1_3_apang,4,"Preferred cultivation conditions include Tropical-subtropical, 15-35°C, moderate rainfall, drought tolerant (800-1500mm) and Sandy loam, well-drained soil, tolerates poor soils.",Climate Requirements,0.6171875,True
+1_3_apang,5,Safety considerations: Avoid in pregnancy; safe in lactation at normal medicinal doses.,Pregnancy & Lactation Safety,0.84,True
+1_3_apang,6,"Leaf features: Lanceolate to elliptic, 2-5cm long, pubescent, margin entire, opposite arrangement.",Leaf Morphology,0.9111111111111111,True
+1_4_kalomegh,1,Andrographis paniculata (1_4_kalomegh) is a Annual Herb (branched) in the Acanthaceae family.,Scientific Name,0.39655172413793105,True
+1_4_kalomegh,2,"It naturally grows in Tropical dry forests, cultivated fields, open grasslands across Indian Subcontinent.",Native Habitat,0.691358024691358,True
+1_4_kalomegh,3,"Traditionally, it is used for Ayurvedic fever treatment, bitter tonic, liver support, digestive aid, wound healing and contains active compounds like Andrographolide (diterpenoid lactone), neoandrographolide, deoxyandrographolide.",Traditional Uses,0.535031847133758,True
+1_4_kalomegh,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, moderate rainfall (750-2250mm), prefers dry season and Well-drained loamy soil, slightly acidic to neutral pH.",Climate Requirements,0.6159695817490495,True
+1_4_kalomegh,5,Safety considerations: Avoid in pregnancy; minimal use acceptable in lactation.,Pregnancy & Lactation Safety,0.8208955223880597,True
+1_4_kalomegh,6,"Leaf features: Linear-lanceolate, 1-5cm long, glabrous, margin entire, opposite arrangement, acute apex.",Leaf Morphology,0.9166666666666666,True
+2_5_kaluchitra,1,Phyllanthus acidus (2_5_kaluchitra) is a Perennial Shrub/Small tree in the Phyllanthaceae family.,Scientific Name,0.3130434782608696,True
+2_5_kaluchitra,2,"It naturally grows in Tropical deciduous forests, cultivated plantations, tropical wetlands across Tropical Asia, Indian Subcontinent.",Native Habitat,0.6798029556650246,True
+2_5_kaluchitra,3,"Traditionally, it is used for Ayurvedic cooling tonic, liver support, digestive aid, fever management, skin health and contains active compounds like Vitamin C (ascorbic acid), phyllanthin, hypophyllanthin, phyltetralin.",Traditional Uses,0.5526315789473685,True
+2_5_kaluchitra,4,"Preferred cultivation conditions include Tropical, 20-32°C, moderate to high rainfall (1200-2400mm), humid conditions and Well-drained loamy soil, slightly acidic, fertile soil.",Climate Requirements,0.6007905138339921,True
+2_5_kaluchitra,5,Safety considerations: Safe in pregnancy and lactation; traditionally used as nutritive tonic.,Pregnancy & Lactation Safety,0.8536585365853658,True
+2_5_kaluchitra,6,"Leaf features: Leaflets small, 0.5-1.5cm, elliptic, feathery bipinnate arrangement, bright green.",Leaf Morphology,0.9101123595505618,True
+2_6_ayapan,1,Alternanthera sessilis (2_6_ayapan) is a Annual/Perennial Herb (prostrate spreading) in the Amaranthaceae family.,Plant Habit,0.37410071942446044,True
+2_6_ayapan,2,"It naturally grows in Tropical wetlands, pond margins, marshes, disturbed areas across Indian Subcontinent, Southeast Asia.",Native Habitat,0.6333333333333333,True
+2_6_ayapan,3,"Traditionally, it is used for Ayurvedic cooling herb, urinary support, fever reduction, liver support and contains active compounds like Alkaloids, saponins, phenols.",Traditional Uses,0.5991561181434599,True
+2_6_ayapan,4,"Preferred cultivation conditions include Tropical, 20-30°C, high humidity, 1000-2500mm rainfall, moisture-loving and Moist loamy soil, adaptable to wet conditions.",Climate Requirements,0.6068376068376068,True
+2_6_ayapan,5,Safety considerations: Avoid in pregnancy; minimal use in lactation.,Pregnancy & Lactation Safety,0.7857142857142857,True
+2_6_ayapan,6,"Leaf features: Narrowly elliptic, 1-3cm long, glabrous, opposite arrangement, sessile.",Leaf Morphology,0.8974358974358975,True
+2_7_akondo,1,Calotropis procera (2_7_akondo) is a Perennial Shrub/Small tree in the Apocynaceae family.,Geographical Origin,0.3448275862068966,True
+2_7_akondo,2,"It naturally grows in Semi-arid regions, dry grasslands, waste areas, xerophytic habitats across Tropical Africa, Arabian Peninsula, Indian Subcontinent.",Native Habitat,0.6090909090909091,True
+2_7_akondo,3,"Traditionally, it is used for Unani pain relief, traditional skin ulcer treatment, Ayurvedic wound care and contains active compounds like Cardenolides (cardiac glycosides), cardiac aglycones, alkaloids.",Traditional Uses,0.5289855072463768,True
+2_7_akondo,4,"Preferred cultivation conditions include Tropical-subtropical, 15-40°C, drought resistant, 400-1200mm rainfall and Well-drained sandy soil, poor soil tolerance.",Climate Requirements,0.6026200873362445,True
+2_7_akondo,5,Safety considerations: ABSOLUTELY CONTRAINDICATED in pregnancy; cardiotoxic potential.,Pregnancy & Lactation Safety,0.8378378378378378,True
+2_7_akondo,6,"Leaf features: Oblong-lanceolate, 6-12cm long, pubescent, waxy coating, opposite arrangement.",Leaf Morphology,0.9058823529411765,True
+2_8_bamonhati,1,Desmodium triflorum (2_8_bamonhati) is a Perennial Herb (trailing) in the Fabaceae family.,Scientific Name,0.3486238532110092,True
+2_8_bamonhati,2,"It naturally grows in Tropical grasslands, forest edges, disturbed areas, cultivated fields across Tropical Asia, Indian Subcontinent.",Native Habitat,0.6798029556650246,True
+2_8_bamonhati,3,"Traditionally, it is used for Ayurvedic respiratory tonic, cough relief, asthma support, fever management and contains active compounds like Alkaloids, saponins, phenols, tannins.",Traditional Uses,0.5905511811023622,True
+2_8_bamonhati,4,"Preferred cultivation conditions include Tropical, 20-30°C, moderate rainfall (800-2000mm) and Well-drained sandy loam, adaptable soil.",Climate Requirements,0.532608695652174,True
+2_8_bamonhati,5,Safety considerations: Generally safe in both pregnancy and lactation.,Pregnancy & Lactation Safety,0.7931034482758621,True
+2_8_bamonhati,6,"Leaf features: Trifoliate, leaflets 1-2cm, obovate, glabrous, opposite arrangement.",Leaf Morphology,0.8933333333333333,True
+3_9_kalodhutra,1,Amaranthus spinosus (3_9_kalodhutra) is a Annual Herb in the Amaranthaceae family.,Scientific Name,0.37623762376237624,True
+3_9_kalodhutra,2,"It naturally grows in Open grasslands, disturbed areas, cultivated fields, waste areas across Tropical Americas, now pan-tropical.",Native Habitat,0.6597938144329897,True
+3_9_kalodhutra,3,"Traditionally, it is used for Ayurvedic cooling tonic, digestive aid, urinary support, fever management and contains active compounds like Saponins, alkaloids, flavonoids.",Traditional Uses,0.5983606557377049,True
+3_9_kalodhutra,4,"Preferred cultivation conditions include Tropical-subtropical, 20-35°C, moderate rainfall (600-2000mm) and Well-drained soil, adaptable to poor soils.",Climate Requirements,0.5781990521327014,True
+3_9_kalodhutra,5,Safety considerations: Safe; nutritive during pregnancy and lactation.,Pregnancy & Lactation Safety,0.7931034482758621,True
+3_9_kalodhutra,6,"Leaf features: Broadly lanceolate, 3-7cm, glabrous, alternate arrangement, spines at leaf axils.",Leaf Morphology,0.9166666666666666,True
+3_10_tarulata,1,Scoparia dulcis (3_10_tarulata) is a Annual/Perennial Herb (compact shrub) in the Plantaginaceae family.,Plant Habit,0.3225806451612903,True
+3_10_tarulata,2,"It naturally grows in Tropical grasslands, disturbed areas, cultivated fields, roadside across Tropical America, now pan-tropical.",Native Habitat,0.6666666666666666,True
+3_10_tarulata,3,"Traditionally, it is used for Traditional fever remedy, urinary support, skin conditions, digestive aid and contains active compounds like Alkaloids, triterpenes, phenols.",Traditional Uses,0.5983606557377049,True
+3_10_tarulata,4,"Preferred cultivation conditions include Tropical, 20-32°C, moderate rainfall (800-1800mm) and Well-drained soil, adaptable.",Climate Requirements,0.5664739884393064,True
+3_10_tarulata,5,Safety considerations: Generally safe; minimal traditional restrictions.,Pregnancy & Lactation Safety,0.8,True
+3_10_tarulata,6,"Leaf features: Small, linear-lanceolate, 0.5-2cm, glabrous, whorled arrangement, margin entire.",Leaf Morphology,0.9080459770114943,True
+4_11_punarnava,1,Boerhavia diffusa (4_11_punarnava) is a Annual/Perennial Herb (prostrate spreading) in the Nyctaginaceae family.,Plant Habit,0.37681159420289856,True
+4_11_punarnava,2,"It naturally grows in Open grasslands, disturbed areas, field margins, cultivated fields across Tropical Asia, Indian Subcontinent.",Native Habitat,0.6700507614213198,True
+4_11_punarnava,3,"Traditionally, it is used for Ayurvedic diuretic and rejuvenative, kidney/urinary support, liver tonic, skin health and contains active compounds like Rotenone, alkaloids (boeravinone), flavonoids.",Traditional Uses,0.6028368794326241,True
+4_11_punarnava,4,"Preferred cultivation conditions include Tropical-subtropical, 20-35°C, moderate rainfall (600-2000mm) and Well-drained sandy loam, adaptable to poor soils.",Climate Requirements,0.5622119815668203,True
+4_11_punarnava,5,Safety considerations: Avoid in pregnancy; minimal use in lactation.,Pregnancy & Lactation Safety,0.7857142857142857,True
+4_11_punarnava,6,"Leaf features: Ovate, 1-3cm, glabrous to pubescent, slightly fleshy, opposite arrangement.",Leaf Morphology,0.9024390243902439,True
+4_12_agnishikha,1,Justicia adhatoda (4_12_agnishikha) is a Perennial Shrub in the Acanthaceae family.,Scientific Name,0.34,True
+4_12_agnishikha,2,"It naturally grows in Tropical deciduous forests, forest edges, cultivated areas across Indian Subcontinent, Southeast Asia.",Native Habitat,0.6373626373626373,True
+4_12_agnishikha,3,"Traditionally, it is used for Ayurvedic respiratory tonic, cough remedy, asthma support, tuberculosis support and contains active compounds like Vasicine (quinazoline alkaloid), vasicinone, essential oils.",Traditional Uses,0.5563380281690141,True
+4_12_agnishikha,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, moderate rainfall (1000-2500mm) and Well-drained loamy soil, fertile, slightly acidic.",Climate Requirements,0.5636363636363636,True
+4_12_agnishikha,5,Safety considerations: Avoid in pregnancy; safe in lactation.,Pregnancy & Lactation Safety,0.7551020408163265,True
+4_12_agnishikha,6,"Leaf features: Lanceolate, 8-15cm long, acuminate apex, pubescent, opposite arrangement.",Leaf Morphology,0.9,True
+4_13_tulsi,1,"Ocimum sanctum (4_13_tulsi) is a Annual/Short-lived perennial Herb (erect, branched) in the Lamiaceae family.",Life Span,0.40875912408759124,True
+4_13_tulsi,2,"It naturally grows in Tropical regions, cultivated gardens, temple areas across Indian Subcontinent.",Native Habitat,0.6666666666666666,True
+4_13_tulsi,3,"Traditionally, it is used for Ayurvedic adaptogen, stress relief, fever management, cough remedy, spiritual herb and contains active compounds like Eugenol, orientin, vicenin, rosmarinic acid, apigenin.",Traditional Uses,0.5774647887323944,True
+4_13_tulsi,4,"Preferred cultivation conditions include Tropical-subtropical, 20-28°C, moderate rainfall (1000-2000mm) and Well-drained loamy soil, fertile, good drainage.",Climate Requirements,0.5688073394495413,True
+4_13_tulsi,5,Safety considerations: Generally safe in pregnancy and lactation at normal culinary/mild therapeutic doses.,Pregnancy & Lactation Safety,0.8736842105263158,True
+4_13_tulsi,6,"Leaf features: Ovate to oblong, 1-3cm, pubescent, margin serrate, opposite arrangement, aromatic.",Leaf Morphology,0.9101123595505618,True
+4_14_ramtulshi,1,"Ocimum basilicum (4_14_ramtulshi) is a Annual Herb (erect, branched) in the Lamiaceae family.",Plant Habit,0.3826086956521739,True
+4_14_ramtulshi,2,"It naturally grows in Tropical and subtropical regions, cultivated globally across Indian Subcontinent.",Native Habitat,0.6794871794871795,True
+4_14_ramtulshi,3,"Traditionally, it is used for Culinary herb with medicinal properties, digestive aid, fever support and contains active compounds like Estragole, linalool, methyl cinnamate, eugenol (less than O.",Traditional Uses,0.5227272727272727,True
+4_14_ramtulshi,4,sanctum).,Life Span,0.4,True
+4_14_ramtulshi,5,"Preferred cultivation conditions include Warm temperate to tropical, 18-28°C, moderate rainfall (500-1500mm) and Well-drained loamy soil, fertile, good drainage.",Climate Requirements,0.5877192982456141,True
+4_14_ramtulshi,6,Safety considerations: Safe in pregnancy and lactation at normal culinary amounts.,Pregnancy & Lactation Safety,0.8285714285714286,True
+4_14_ramtulshi,7,"Leaf features: Ovate to oblong, 2-4cm, glabrous to pubescent, margin entire/serrate, opposite arrangement.",Leaf Morphology,0.9183673469387755,True
+4_15_basok,1,Adhatoda vasica (4_15_basok) is a Perennial Shrub in the Acanthaceae family.,Scientific Name,0.32967032967032966,True
+4_15_basok,2,"It naturally grows in Tropical deciduous forests, forest margins, cultivated areas across Indian Subcontinent.",Native Habitat,0.7058823529411765,True
+4_15_basok,3,"Traditionally, it is used for Ayurvedic cough remedy, respiratory support, asthma management, lung health and contains active compounds like Vasicine, vasicinone, alkaloids, essential oils.",Traditional Uses,0.5681818181818182,True
+4_15_basok,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, moderate rainfall (1000-2500mm) and Well-drained loamy soil, fertile, slightly acidic.",Climate Requirements,0.5636363636363636,True
+4_15_basok,5,Safety considerations: Avoid in pregnancy; safe in lactation.,Pregnancy & Lactation Safety,0.7551020408163265,True
+4_15_basok,6,"Leaf features: Lanceolate, 10-18cm long, acuminate, pubescent, opposite arrangement.",Leaf Morphology,0.8947368421052632,True
+4_16_neem,1,"Azadirachta indica (4_16_neem) is a Perennial (long-lived, 150-200+ years) Tree (medium) in the Meliaceae family.",Life Span,0.5033112582781457,True
+4_16_neem,2,"It naturally grows in Tropical dry forests, deciduous forests, semi-arid regions across Indian Subcontinent.",Native Habitat,0.6987951807228916,True
+4_16_neem,3,"Traditionally, it is used for Ayurvedic purifying herb, skin conditions, fever, parasites, liver support and contains active compounds like Azadirachtin (limonoid), nimbin, salannin, mahagoni, fatty acids.",Traditional Uses,0.5304659498207885,True
+4_16_neem,4,"Preferred cultivation conditions include Tropical-subtropical, 15-40°C, drought tolerant, 400-2250mm rainfall and Well-drained loamy soil, tolerates poor soils, slightly acidic to alkaline.",Preferred Soil Type,0.5627376425855514,True
+4_16_neem,5,Safety considerations: AVOID seed oil in pregnancy (teratogenic potential); leaf use minimal and cautious.,Pregnancy & Lactation Safety,0.8723404255319149,True
+4_16_neem,6,"Leaf features: Pinnate, leaflets lanceolate, 2-4cm, glabrous, serrate margin, feathery appearance.",Leaf Morphology,0.9111111111111111,True
+4_17_pudina,1,"Mentha piperita (4_17_pudina) is a Perennial Herb (stoloniferous, spreading) in the Lamiaceae family.",Plant Habit,0.4696969696969697,True
+4_17_pudina,2,"It naturally grows in Temperate to subtropical regions, cultivated globally across Hybrid species (Asia origin, Mediterranean cultivation).",Geographical Origin,0.5670103092783505,True
+4_17_pudina,3,"Traditionally, it is used for Ayurvedic cooling herb, digestive aid, headache relief, respiratory support and contains active compounds like Menthol (40-90%), menthone, limonene, pulegone, eucalyptol.",Traditional Uses,0.5454545454545454,True
+4_17_pudina,4,"Preferred cultivation conditions include Temperate to subtropical, 10-28°C, moderate rainfall (500-1500mm), frost hardy and Well-drained loamy soil, fertile, moist.",Climate Requirements,0.6446280991735537,True
+4_17_pudina,5,Safety considerations: Safe in pregnancy and lactation at normal culinary and mild therapeutic doses.,Pregnancy & Lactation Safety,0.8651685393258427,True
+4_17_pudina,6,"Leaf features: Lanceolate to elliptic, 2-4cm, glabrous, serrate margin, opposite arrangement, aromatic.",Leaf Morphology,0.9157894736842105,True
+4_18_joba,1,Hibiscus sabdariffa (4_18_joba) is a Annual/Perennial (depends on climate) Herb/Shrub in the Malvaceae family.,Life Span,0.5034013605442177,True
+4_18_joba,2,"It naturally grows in Tropical grasslands, cultivated fields, open areas across Tropical Africa, Indian Subcontinent.",Native Habitat,0.5988023952095808,True
+4_18_joba,3,"Traditionally, it is used for Ayurvedic cooling tonic, blood pressure support, digestive aid, menstrual support and contains active compounds like Anthocyanins, flavonoids (hibiscetine), organic acids (citric, malic, tartaric).",Traditional Uses,0.525974025974026,True
+4_18_joba,4,"Preferred cultivation conditions include Tropical-subtropical, 20-32°C, moderate rainfall (750-2000mm) and Well-drained loamy soil, fertile, slightly acidic to neutral.",Climate Requirements,0.5327510917030568,True
+4_18_joba,5,Safety considerations: Generally safe at normal culinary amounts; avoid high medicinal doses in pregnancy.,Pregnancy & Lactation Safety,0.8723404255319149,True
+4_18_joba,6,"Leaf features: Deeply lobed, 3-5 lobes, 5-10cm, serrate, glabrous to pubescent, alternate arrangement.",Leaf Morphology,0.9148936170212766,True
+4_19_sojina,1,Moringa oleifera (4_19_sojina) is a Perennial Tree (small to medium) in the Moringaceae family.,Plant Habit,0.37606837606837606,True
+4_19_sojina,2,"It naturally grows in Tropical dry forests, semi-arid regions, cultivated widely across Indian Subcontinent.",Native Habitat,0.6987951807228916,True
+4_19_sojina,3,"Traditionally, it is used for Ayurvedic nutritive tonic, blood support, energy enhancement, skin health and contains active compounds like Proteins, amino acids, vitamins A/C, minerals, glucosinolates, niazimicin.",Traditional Uses,0.5104895104895105,True
+4_19_sojina,4,"Preferred cultivation conditions include Tropical-subtropical, 15-35°C, drought tolerant, 400-2250mm rainfall and Well-drained sandy loam, tolerates poor soils, slightly alkaline to neutral.",Preferred Soil Type,0.5660377358490566,True
+4_19_sojina,5,Safety considerations: Leaves safe in pregnancy and lactation (nutritive); avoid root in pregnancy.,Pregnancy & Lactation Safety,0.8620689655172413,True
+4_19_sojina,6,"Leaf features: Tripinnate, leaflets small (0.3-0.8cm), ovate, glabrous, feathery appearance.",Leaf Morphology,0.9047619047619048,True
+5_20_gandha,1,Ixora coccinea (5_20_gandha) is a Perennial Shrub in the Rubiaceae family.,Scientific Name,0.3181818181818182,True
+5_20_gandha,2,"It naturally grows in Tropical forests, cultivated gardens across South Asia, Indian Subcontinent.",Native Habitat,0.5373134328358209,True
+5_20_gandha,3,"Traditionally, it is used for Traditional skin conditions, wound healing, fever management, parasitic support and contains active compounds like Flavonoids, alkaloids, phenols, tannins.",Traditional Uses,0.5984848484848485,True
+5_20_gandha,4,"Preferred cultivation conditions include Tropical-subtropical, 20-32°C, moderate to high rainfall (1000-2000mm) and Well-drained loamy soil, fertile, slightly acidic.",Climate Requirements,0.5932203389830508,True
+5_20_gandha,5,Safety considerations: Generally safe.,Toxicity Levels,0.6129032258064516,True
+5_20_gandha,6,"Leaf features: Elliptic-oblong, 5-10cm, glabrous, opposite arrangement, leathery.",Leaf Morphology,0.8904109589041096,True
+5_21_shotomuli,1,Polygonatum verticillatum (5_21_shotomuli) is a Perennial Herb (rhizomatous) in the Asparagaceae family.,Scientific Name,0.3875968992248062,True
+5_21_shotomuli,2,"It naturally grows in Temperate to subtropical forests, shaded areas, mountainous regions across Himalayan region, Indian Subcontinent.",Native Habitat,0.6633663366336634,True
+5_21_shotomuli,3,"Traditionally, it is used for Traditional respiratory support, joint health, rheumatic conditions and contains active compounds like Polysaccharides, mucilage, alkaloids, cardiac glycosides (trace).",Traditional Uses,0.5056603773584906,True
+5_21_shotomuli,4,"Preferred cultivation conditions include Temperate-subtropical, 10-25°C, high humidity, 1500-3000mm rainfall and Well-drained loamy soil, shade-loving, forest soil.",Climate Requirements,0.5800865800865801,True
+5_21_shotomuli,5,Safety considerations: Generally safe.,Pregnancy & Lactation Safety,0.5384615384615384,True
+5_21_shotomuli,6,"Leaf features: Lanceolate, 5-8cm, glabrous, whorled arrangement (variable), margin entire.",Leaf Morphology,0.9024390243902439,True
+6_22_sarpagandha,1,Rauvolfia serpentina (6_22_sarpagandha) is a Perennial Shrub/Small tree in the Apocynaceae family.,Native Habitat,0.35374149659863946,True
+6_22_sarpagandha,2,"It naturally grows in Tropical wet and dry forests, shaded forest areas across Indian Subcontinent.",Native Habitat,0.6621621621621622,True
+6_22_sarpagandha,3,"Traditionally, it is used for Ayurvedic nervous system support, hypertension management, mental conditions and contains active compounds like Reserpine, ajmaline, serpentine, alstonine (alkaloids).",Traditional Uses,0.5567765567765568,True
+6_22_sarpagandha,4,"Preferred cultivation conditions include Tropical, 20-30°C, high humidity, 1500-2500mm rainfall, shade-loving and Well-drained loamy soil, fertile, forest soil, slightly acidic.",Climate Requirements,0.5551020408163265,True
+6_22_sarpagandha,5,Safety considerations: CONTRAINDICATED in pregnancy; potentially teratogenic; avoid in lactation.,Pregnancy & Lactation Safety,0.8588235294117647,True
+6_22_sarpagandha,6,"Leaf features: Lanceolate, 8-12cm, glabrous, whorled arrangement (3 per node), acuminate.",Leaf Morphology,0.9012345679012346,True
+6_23_anantamul,1,"Hemidesmus indicus (6_23_anantamul) is a Perennial Herb (trailing, climber-like) in the Apocynaceae family.",Plant Habit,0.4264705882352941,True
+6_23_anantamul,2,"It naturally grows in Tropical deciduous forests, open grasslands, cultivation across Indian Subcontinent, tropical Asia.",Native Habitat,0.632768361581921,True
+6_23_anantamul,3,"Traditionally, it is used for Ayurvedic blood purification, skin conditions, rheumatic support, cooling tonic and contains active compounds like Flavonoids, phenols, tannins, saponins, coumarins.",Traditional Uses,0.5766423357664233,True
+6_23_anantamul,4,"Preferred cultivation conditions include Tropical-subtropical, 20-32°C, moderate rainfall (1000-2000mm) and Well-drained sandy loam, adaptable, slightly acidic.",Climate Requirements,0.5585585585585585,True
+6_23_anantamul,5,Safety considerations: Generally safe; traditionally used.,Pregnancy & Lactation Safety,0.7391304347826086,True
+6_23_anantamul,6,"Leaf features: Lanceolate-elliptic, 2-4cm, glabrous, opposite arrangement, margin entire.",Leaf Morphology,0.9012345679012346,True
+6_24_chapalish,1,Artabotrys hexapetalus (6_24_chapalish) is a Perennial Shrub/Small tree in the Annonaceae family.,Scientific Name,0.3697478991596639,True
+6_24_chapalish,2,"It naturally grows in Tropical evergreen forests, cultivated gardens across Indian Subcontinent, tropical Asia.",Native Habitat,0.5859872611464968,True
+6_24_chapalish,3,"Traditionally, it is used for Traditional digestive aid, fever management, skin conditions and contains active compounds like Flavonoids, phenols, alkaloids, tannins.",Traditional Uses,0.5309734513274337,True
+6_24_chapalish,4,"Preferred cultivation conditions include Tropical, 20-32°C, high humidity, 1500-2500mm rainfall and Well-drained loamy soil, fertile, slightly acidic.",Climate Requirements,0.5294117647058824,True
+6_24_chapalish,5,Safety considerations: Generally safe.,Pregnancy & Lactation Safety,0.5384615384615384,True
+6_24_chapalish,6,"Leaf features: Elliptic-lanceolate, 8-15cm, glabrous, alternate arrangement, acuminate apex.",Leaf Morphology,0.9047619047619048,True
+6_25_amloki,1,Phyllanthus emblica (6_25_amloki) is a Perennial Tree (medium) in the Phyllanthaceae family.,Scientific Name,0.34234234234234234,True
+6_25_amloki,2,"It naturally grows in Tropical deciduous forests, cultivated orchards across Indian Subcontinent.",Native Habitat,0.6527777777777778,True
+6_25_amloki,3,"Traditionally, it is used for Ayurvedic rejuvenative tonic, immune support, cooling, digestive aid (Triphala ingredient) and contains active compounds like Vitamin C (ascorbic acid), phyllemblic acid, emblicanin A & B, tannins.",Traditional Uses,0.5678233438485805,True
+6_25_amloki,4,"Preferred cultivation conditions include Tropical-subtropical, 20-35°C, moderate rainfall (900-2250mm) and Well-drained loamy soil, slightly acidic to alkaline, fertile.",Preferred Soil Type,0.5304347826086957,True
+6_25_amloki,5,Safety considerations: Safe and beneficial in pregnancy and lactation; traditional rejuvenative.,Pregnancy & Lactation Safety,0.8571428571428571,True
+6_25_amloki,6,"Leaf features: Leaflets small, 0.4-0.8cm, pinnate feathery arrangement, light green.",Leaf Morphology,0.8947368421052632,True
+6_26_haritoki,1,"Terminalia chebula (6_26_haritoki) is a Perennial (long-lived, 100+ years) Tree (large) in the Combretaceae family.",Life Span,0.4563758389261745,True
+6_26_haritoki,2,"It naturally grows in Tropical deciduous and dry forests, cultivated across Indian Subcontinent.",Native Habitat,0.647887323943662,True
+6_26_haritoki,3,"Traditionally, it is used for Ayurvedic rasayana (rejuvenative), digestive aid, parasitic support, taste enhancer (Triphala ingredient) and contains active compounds like Tannins (30-35%), chebulic acid, ellagic acid, gallic acid, ascorbic acid.",Traditional Uses,0.6,True
+6_26_haritoki,4,"Preferred cultivation conditions include Tropical-subtropical, 15-35°C, moderate rainfall (750-2250mm), drought tolerant and Well-drained loamy soil, adaptable, tolerates poor soils.",Climate Requirements,0.6053639846743295,True
+6_26_haritoki,5,Safety considerations: Safe in pregnancy and lactation at normal medicinal doses; mild laxative action acceptable.,Pregnancy & Lactation Safety,0.8823529411764706,True
+6_26_haritoki,6,"Leaf features: Elliptic, 8-15cm, glabrous, opposite to subopposite arrangement, leathery.",Leaf Morphology,0.9012345679012346,True
+6_27_bohera,1,"Terminalia bellirica (6_27_bohera) is a Perennial (long-lived, 100+ years) Tree (large) in the Combretaceae family.",Life Span,0.4563758389261745,True
+6_27_bohera,2,"It naturally grows in Tropical deciduous forests, cultivated across Indian Subcontinent.",Native Habitat,0.6031746031746031,True
+6_27_bohera,3,"Traditionally, it is used for Ayurvedic eye tonic, respiratory support, fever management, cooling (Triphala ingredient) and contains active compounds like Tannins (25-30%), belliric acid, polyphenols, vitamin C.",Traditional Uses,0.5933333333333334,True
+6_27_bohera,4,"Preferred cultivation conditions include Tropical-subtropical, 15-35°C, moderate rainfall (750-2250mm) and Well-drained loamy soil, adaptable, tolerates poor soils.",Climate Requirements,0.5422222222222223,True
+6_27_bohera,5,Safety considerations: Safe in pregnancy and lactation at normal medicinal doses.,Pregnancy & Lactation Safety,0.8260869565217391,True
+6_27_bohera,6,"Leaf features: Obovate to elliptic, 10-20cm, glabrous, alternate to subopposite, leathery.",Leaf Morphology,0.9024390243902439,True
+6_28_oshwagandha,1,Withania somnifera (6_28_oshwagandha) is a Perennial Herb/Shrub in the Solanaceae family.,Scientific Name,0.3364485981308411,True
+6_28_oshwagandha,2,"It naturally grows in Tropical dry forests, arid regions, cultivated across Indian Subcontinent.",Native Habitat,0.647887323943662,True
+6_28_oshwagandha,3,"Traditionally, it is used for Ayurvedic rasayana (rejuvenative), adaptogen, male fertility support, stress and sleep support and contains active compounds like Withanolides (7-60%, 40+ identified), alkaloids, phenols, tannins.",Traditional Uses,0.5875,True
+6_28_oshwagandha,4,"Preferred cultivation conditions include Tropical-subtropical, 15-35°C, drought tolerant, 400-1200mm rainfall and Well-drained sandy loam, drought tolerant, slightly alkaline.",Climate Requirements,0.5596707818930041,True
+6_28_oshwagandha,5,Safety considerations: Generally regarded as safe but use with caution in pregnancy; acceptable in lactation.,Pregnancy & Lactation Safety,0.8762886597938144,True
+6_28_oshwagandha,6,"Leaf features: Ovate to lanceolate, 3-8cm, pubescent, alternate arrangement, margin entire.",Leaf Morphology,0.9036144578313253,True
+6_29_devils_backbone,1,Euphorbia tithymaloides (6_29_devils_backbone) is a Perennial Herb/Succulent shrub in the Euphorbiaceae family.,Scientific Name,0.34328358208955223,True
+6_29_devils_backbone,2,"It naturally grows in Tropical regions, cultivated ornamentally across Tropical Americas.",Native Habitat,0.6307692307692307,True
+6_29_devils_backbone,3,"Traditionally, it is used for Limited traditional medicinal use; primarily ornamental and contains active compounds like Cardiac glycosides, alkaloids, phenols (potential toxins).",Primary Active Compounds,0.4830508474576271,True
+6_29_devils_backbone,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, moderate to low rainfall, drought tolerant and Well-drained sandy loam, drought tolerant, poor soil adaptable.",Climate Requirements,0.5725490196078431,True
+6_29_devils_backbone,5,Safety considerations: AVOID in pregnancy and lactation; cardiac glycoside toxicity risk.,Pregnancy & Lactation Safety,0.8441558441558441,True
+6_29_devils_backbone,6,"Leaf features: Opposite, elliptic-obovate, 2-5cm, glabrous, margin entire, variegated in some varieties.",Leaf Morphology,0.9166666666666666,True
+7_30_lemongrass,1,Cymbopogon citratus (7_30_lemongrass) is a Perennial Grass (tall perennial) in the Poaceae family.,Plant Habit,0.36666666666666664,True
+7_30_lemongrass,2,"It naturally grows in Tropical grasslands, cultivated widely across Tropical Asia, Southeast Asia.",Native Habitat,0.5588235294117647,True
+7_30_lemongrass,3,"Traditionally, it is used for Traditional digestive aid, fever management, insect repellent, calming tea and contains active compounds like Citral (geranial & neral, 70-80%), limonene, myrcene, linalool.",Traditional Uses,0.5342960288808665,True
+7_30_lemongrass,4,"Preferred cultivation conditions include Tropical-subtropical, 20-30°C, moderate rainfall (750-2000mm), warm growing conditions and Well-drained loamy soil, fertile, slightly acidic to neutral.",Climate Requirements,0.6164874551971327,True
+7_30_lemongrass,5,Safety considerations: Safe in pregnancy and lactation at normal culinary amounts.,Pregnancy & Lactation Safety,0.8285714285714286,True
+7_30_lemongrass,6,"Leaf features: Long, linear, 30-90cm, narrow (0.3-0.5cm wide), blade margins rough/serrulate, tufted.",Leaf Morphology,0.9139784946236559,True
+7_31_aloe_vera,1,Aloe vera (7_31_aloe_vera) is a Perennial Succulent herb in the Asphodelaceae family.,Toxicity Levels,0.3128491620111732,True
+7_31_aloe_vera,2,"It naturally grows in Arid and semi-arid regions, xerophytic habitats across North Africa, Arabian Peninsula, naturalized in Mediterranean.",Geographical Origin,0.61,True
+7_31_aloe_vera,3,"Traditionally, it is used for Traditional skin care, wound healing, digestive aid (caution), cooling, Ayurvedic pitta balance and contains active compounds like Polysaccharides (acemannan), mucilage, anthraquinones (aloin, barbaloin), salicylic acid.",Traditional Uses,0.5507246376811594,True
+7_31_aloe_vera,4,"Preferred cultivation conditions include Tropical-subtropical, 15-32°C, drought tolerant, low rainfall (250-1000mm), frost sensitive and Well-drained sandy soil, drought tolerant, poor soil adaptable.",Climate Requirements,0.6254295532646048,True
+7_31_aloe_vera,5,Safety considerations: Gel safe topically in pregnancy; internal latex AVOID; gel juice minimal in lactation.,Pregnancy & Lactation Safety,0.8762886597938144,True
+7_31_aloe_vera,6,"Leaf features: Lanceolate, succulent, 30-60cm long, blue-green, margin serrate with teeth, thick gel interior.",Leaf Morphology,0.9215686274509803,True
+7_32_nayontara,1,Catharanthus roseus (7_32_nayontara) is a Perennial Herb/Subshrub in the Apocynaceae family.,Scientific Name,0.34234234234234234,True
+7_32_nayontara,2,"It naturally grows in Tropical deciduous forests, now cultivated widely across Madagascar.",Native Habitat,0.7050359712230215,True
+7_32_nayontara,3,"Traditionally, it is used for Traditional folk remedy for diabetes, blood sugar management, cancer research (alkaloids) and contains active compounds like Indole alkaloids (vincristine, vinblastine, ajmalicine, serpentine).",Traditional Uses,0.5705128205128205,True
+7_32_nayontara,4,"Preferred cultivation conditions include Tropical-subtropical, 20-32°C, moderate rainfall (800-1500mm) and Well-drained loamy soil, fertile, slightly acidic to neutral.",Climate Requirements,0.5327510917030568,True
+7_32_nayontara,5,Safety considerations: CONTRAINDICATED in pregnancy (cytotoxic alkaloids); AVOID in lactation.,Pregnancy & Lactation Safety,0.8536585365853658,True
+7_32_nayontara,6,"Leaf features: Oblong-elliptic, 2-5cm, glabrous, opposite arrangement, margin entire, leathery.",Leaf Morphology,0.9080459770114943,True
+7_33_longevity_spinach_gainura,1,Talinum triangulare (7_33_longevity_spinach_gainura) is a Perennial Herb/Succulent in the Talinaceae (formerly Portulacaceae) family.,Botanical Family,0.4166666666666667,True
+7_33_longevity_spinach_gainura,2,"It naturally grows in Tropical cultivated areas, open disturbed areas across Tropical Americas, now pan-tropical.",Native Habitat,0.5875,True
+7_33_longevity_spinach_gainura,3,"Traditionally, it is used for Traditional longevity tonic, blood building, nutritive support, energy enhancement and contains active compounds like Minerals (iron, calcium, potassium), vitamins (A, C), phytochemicals.",Traditional Uses,0.5484949832775919,True
+7_33_longevity_spinach_gainura,4,"Preferred cultivation conditions include Tropical-subtropical, 20-32°C, moderate rainfall (600-1500mm) and Well-drained sandy loam, adaptable, poor soil tolerant.",Climate Requirements,0.547085201793722,True
+7_33_longevity_spinach_gainura,5,Safety considerations: Safe and beneficial in pregnancy and lactation; nutritive tonic.,Pregnancy & Lactation Safety,0.84,True
+7_33_longevity_spinach_gainura,6,"Leaf features: Triangular to ovate, 2-5cm, glabrous, fleshy succulent, alternate arrangement.",Leaf Morphology,0.9058823529411765,True
+7_34_betal,1,Piper betle (7_34_betal) is a Perennial Vine (climber) in the Piperaceae family.,Plant Habit,0.2978723404255319,True
+7_34_betal,2,"It naturally grows in Tropical wet forests, cultivated on support structures across Indian Subcontinent.",Native Habitat,0.6835443037974683,True
+7_34_betal,3,"Traditionally, it is used for Traditional digestive stimulant, oral freshener, after-meal digestive aid, betel preparation and contains active compounds like Safrole, phenols, tannins, essential oils (betel oil), eugenol, anethole.",Traditional Uses,0.5696594427244582,True
+7_34_betal,4,"Preferred cultivation conditions include Tropical, 20-32°C, high humidity, 1500-2500mm rainfall, shade-loving and Well-drained loamy soil, fertile, high humidity required.",Climate Requirements,0.5690376569037657,True
+7_34_betal,5,Safety considerations: Minimal concern at normal use; caution with excessive chewing in pregnancy.,Pregnancy & Lactation Safety,0.8604651162790697,True
+7_34_betal,6,"Leaf features: Cordate (heart-shaped), 5-15cm long, acuminate, glabrous, alternate arrangement, aromatic.",Leaf Morphology,0.9175257731958762,True
